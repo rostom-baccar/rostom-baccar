@@ -7,11 +7,14 @@
 [<p align="center"></b><img align="center" src='./icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rostom-baccar/) 
 [<img align="center" src='./icons/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/rostom.baccar/)
 [<img align="center" src='./icons/youtube.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCctBSTVGlMJE0LlMX0aFO3w)
-[<img align="center" src='./icons/twitter.png' alt='twitter' height='40'>](https://twitter.com/rostom_baccar)</b>
+[<img align="center" src='./icons/twitter.png' alt='twitter' height='40'>](https://twitter.com/rostom_baccar)
+[<img align="center" src='./icons/instagram.png' alt='youtube' height='40'>](https://www.instagram.com/rostom.baccar/)</b>
 
+<br>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=rostom-baccar&count_private=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rostom-baccar&theme=radical&langs_count=15&layout=compact&hide=php" />
-</div>
-
+<p align="center">
+<a href="https://github.com/rostom-baccar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rostom-baccar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rostom-baccar&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
