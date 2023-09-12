@@ -4,7 +4,8 @@
 <h1 align="center"><b>Social Media Links</b></h1>
 
 
-[<p align="center"></b><img align="center" src='./icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rostom-baccar/) 
+[<p align="center"></b>
+[<img align="center" src='./icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rostom-baccar/) 
 [<img align="center" src='./icons/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/rostom.baccar/)
 [<img align="center" src='./icons/youtube.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCctBSTVGlMJE0LlMX0aFO3w)
 [<img align="center" src='https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000' alt='X' height='40'>](https://twitter.com/rostom_baccar)
